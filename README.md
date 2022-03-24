@@ -5,7 +5,7 @@
 
 3. Go to the very end of the file and add:
 
-  `export PATH="/path_of/the_folder_we/want_to_add_to:$PATH"`
+   `export PATH="/path_of/the_folder_we/want_to_add_to:$PATH"`
 
 5. To register the changes, save the file, exit the text editor and then type in your terminal:
    `source ~/.bashrc`
