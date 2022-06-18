@@ -18,3 +18,6 @@
    `source ~/.bashrc`
 6. Type `deploy.sh` to run the script in your Terminal and it will prompt you to add a commit message and push to your github.
 
+AUTHOR: Okechukwu Onwuchekwa. 
+EMAIL: onwuchekwaokechukwu57@gmail.com
+
